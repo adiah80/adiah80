@@ -16,7 +16,8 @@
 - 🔭 I'm a senior Computer Science undergrad at BITS Pilani, Goa.
 - 🌱 I’m currently learning Probablistic Programming, among other things. 
 - 👯 I’m looking to collaborate with other researchers and build software that does cool things.
-- 📫 How to reach me: [<a href="mailto:f20170080@goa.bits-pilani.ac.in"> Email </a> ]
+- :movie_camera: To learn more about me, visit my <a href="https://adiah80.github.io">website</a>.
+
 
 ### You can find me here:
 
